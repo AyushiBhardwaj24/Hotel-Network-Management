@@ -1,6 +1,7 @@
 # Hotel-Network-Management
 
 #Problem Statement
+
 You are required to design and and implement Vic Modern Hotel Network. The hotel has three floors; in the first floor there are three departments (Reception, Store, and Logistics) , in the second floor there are three departments (Finance, HR, and Sales) , while the third floor hosts the IT and Admin. Therefore, the following are part of the considerations during the design and implementation.
 
 1. There should be three routers connecting each floor (all placed in the server room in IT department)
